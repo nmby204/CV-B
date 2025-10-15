@@ -42,13 +42,13 @@ Proyecto de videojuego desarrollado en Unity con documentación y lecciones prá
 
 ### 1. Leccion 01 Player Control
 - [![Jugabilidad B](https://github.com/user-attachments/assets/c815d0fe-3606-4756-9af5-937cce21c041
-)](https://docs.google.com/document/d/1l9hfP4zPAnVpvQywp2C6HAVL3WnLTDQ2/edit?usp=sharing&ouid=106229535936603385134&rtpof=true&sd=true)
+)](https://drive.google.com/file/d/1ns33pU3vzIOVpsi8uviGcPUw8PWT35TM/view?usp=sharing)
 
 - Documentación: [Doc](https://docs.google.com/document/d/1l9hfP4zPAnVpvQywp2C6HAVL3WnLTDQ2/edit?usp=sharing&ouid=106229535936603385134&rtpof=true&sd=true)
 
 ### Challenge 1
 - [![Challenge 2](https://github.com/user-attachments/assets/04d6a4e8-c6bf-4103-b80c-ba00c3d5577b
-)](https://drive.google.com/file/d/1NWtbUp-KE0A8okhjTmd5lmwp80n6kk_u/view?usp=sharing) 
+)](https://drive.google.com/file/d/14t9PH1pDzLW_fzuVnJZT63v-rIKoWLUE/view?usp=sharing) 
 
 Package:
 - [Package1](https://drive.google.com/file/d/1NzQtKPn5gZLcv6SVvb2I9wuBVncuS0AF/view?usp=sharing)
