@@ -69,8 +69,17 @@ Package:
 
 
 ### 3. Sonidos y efectos
+- [![Jugabilidad B](https://github.com/user-attachments/assets/d2b1779a-12cb-4f82-abc3-ab0705d52601)](https://drive.google.com/file/d/1hjmC0ZShCJGu4URLEmzIgGjpXh1Boona/view?usp=sharing)
 
-### 4. Escenas y organización
+- Documentación: [Doc](https://docs.google.com/document/d/1Ao90Z-5SHm7517viJ7fGQPvT6xC_bUjG/edit?usp=sharing&ouid=106229535936603385134&rtpof=true&sd=true)
+
+### Challenge 3
+- [![Jugabilidad B](https://github.com/user-attachments/assets/4d1f02da-15dd-4d34-82b0-20341e4e3bd1)](https://drive.google.com/file/d/1CsXwvA5a2K-thCG84gnVRVQy9HfeLDXP/view?usp=sharing)
+
+Package:
+- [Package3](https://drive.google.com/file/d/1FIHisaslPuhOj3UrYkpL3z3D4nvfORUk/view?usp=sharing)
+
+### 5. Interfaz de usuario
 
 
 ---
