@@ -80,7 +80,14 @@ Package:
 - [Package3](https://drive.google.com/file/d/1FIHisaslPuhOj3UrYkpL3z3D4nvfORUk/view?usp=sharing)
 
 ### 5. Interfaz de usuario
+- [![Jugabilidad B](https://github.com/user-attachments/assets/7d7d0eca-a4d8-4f8a-ae98-bd15a8ee851f)](https://drive.google.com/file/d/10zFWiOU8fmEyOhQ7kUMWkVfIUk-NQu2W/view?usp=drive_link)
 
+- Documentación: [Doc](https://docs.google.com/document/d/1SpCyxtsFrc_U6b4wBpjn_Xcpr51p5XiK/edit?usp=sharing&ouid=106229535936603385134&rtpof=true&sd=true)
 
+### Challenge 5
+- [![Jugabilidad B](https://github.com/user-attachments/assets/52145bcc-63d7-444f-a8c0-acce0ec92024)](https://drive.google.com/file/d/1Y1x6_WjfuhXqRe7nt9zsRG1gxFrR4B9d/view?usp=sharing)
+
+Package:
+- [Package5](https://drive.google.com/file/d/1dKzaVopQqqQR9DKHXUqAqEeR9pY5rQtf/view?usp=sharing)
 ---
 
