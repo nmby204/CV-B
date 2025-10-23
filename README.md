@@ -79,6 +79,18 @@ Package:
 Package:
 - [Package3](https://drive.google.com/file/d/1FIHisaslPuhOj3UrYkpL3z3D4nvfORUk/view?usp=sharing)
 
+### 4. Mecanicas de jugabilidad
+- [![Jugabilidad B](https://github.com/user-attachments/assets/339a74c9-471f-479f-b09d-139720a9f24e)](https://drive.google.com/file/d/1ZbF-JI-JO7gKDeX8Jxil38g5NaZjmwLT/view?usp=sharing)
+
+- Documentación: [Doc](https://docs.google.com/document/d/1Xf3RerbkprufqNIyHlPKljqWlIfa3gum/edit?usp=sharing&ouid=106229535936603385134&rtpof=true&sd=true)
+
+### Challenge 4
+- [![Jugabilidad B](https://github.com/user-attachments/assets/9ade967c-8d03-4e92-b0ce-b48b6f90ea74)](https://drive.google.com/file/d/1KYmY30pFyr4oJuSBCF8j6L7DylQhGO3K/view?usp=sharing
+)
+
+Package:
+- [Package4](https://drive.google.com/file/d/1hBtisbqEjU79nH9VTJsv2jjXRYBLEqwi/view?usp=sharing)
+
 ### 5. Interfaz de usuario
 - [![Jugabilidad B](https://github.com/user-attachments/assets/7d7d0eca-a4d8-4f8a-ae98-bd15a8ee851f)](https://drive.google.com/file/d/10zFWiOU8fmEyOhQ7kUMWkVfIUk-NQu2W/view?usp=drive_link)
 
