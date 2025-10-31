@@ -34,7 +34,19 @@ Proyecto de videojuego desarrollado en Unity con documentación y lecciones prá
 
 
 4. **Reto 4**
+   - Video ejemplo:  
+  [![UI Vida](https://github.com/user-attachments/assets/7bc11fb9-d1c8-495e-8e10-47419af56e32
+)](https://drive.google.com/file/d/1luUJex0UgT4uRSxGhe-PfhXNQgDux4FT/view?usp=sharing)
 
+- Documentación: [Doc](https://docs.google.com/document/d/1SpM2Bdgwvz-Dw3WDLCGT-EcOQjS3SFqm/edit?usp=drive_link&ouid=106229535936603385134&rtpof=true&sd=true)
+
+5. **Reto 5**
+
+6. **Reto 6**
+   - Video ejemplo:  
+  [![UI Vida](https://github.com/user-attachments/assets/2a351a16-8554-4818-826d-506ee7c75254)](https://drive.google.com/file/d/1T-gP-OR15HrXKVQh4XPjkDKWnnjh00RU/view?usp=drive_link)
+
+- Documentación: [Doc](https://docs.google.com/document/d/1F7GIJDDXNzWc3QYZKnBUZ4VEajZE2wpc/edit?usp=sharing&ouid=106229535936603385134&rtpof=true&sd=true)
 
 ---
 
