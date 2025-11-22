@@ -7,12 +7,8 @@ Proyecto de videojuego desarrollado en Unity con documentación y lecciones prá
 
 ---
 
-## 🚀 Características principales
-- Control de personaje con **Input System** (moverse, rotar, saltar).  
-- Animaciones de caminar y salto con control de bucles.  
-- Efectos de sonido para pasos, salto y recolección de objetos.  
-- Objetos **coleccionables** que desaparecen al tocarse y reproducen un audio.  
-- Menú principal interactivo (Start, Options, Exit).
+## 🚀 Proyect DH
+  [![UI Menu](https://github.com/user-attachments/assets/191b44a7-09d2-4ad4-a7ff-8c71fc93ec40)](https://drive.google.com/file/d/18u101PZw_v2oapFvha39n7S4toMygfRq/view?usp=drive_link)  
 
 ---
 
